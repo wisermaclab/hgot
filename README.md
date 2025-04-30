@@ -72,7 +72,7 @@ The evaluation results for ChatGPT-3.5 and the Google retrieval model are presen
 
 ## Web-based Inspection Panel
 
-HGOT includes a basic web-based user interface for inspection purposes. To launch it, execute the command `python3 portal.py` and access `127.0.0.1:9080` via a web browser.
+HGOT includes a basic web-based user interface for inspection purposes. To launch it, check the [Instructions_run_portal.py.md](Instructions_run_portal.py.md) and access `127.0.0.1:9080` via a web browser.
 
 ![](doc/image/recording.gif)
 
